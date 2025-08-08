@@ -1,4 +1,4 @@
-# Data Analyst Project: Developer Community Trends
+# Stack Overflow Developer Community Trends: Strategic Tech Adoption Analysis
 
 Analyzed data from annual Stack Overflow Developer Survey. Using SQL and Python, I executed full analysis including cleaning and modeling and developed a strategic presentation for non-technical stakeholders.
 
