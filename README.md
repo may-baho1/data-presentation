@@ -1,6 +1,6 @@
 # Stack Overflow Developer Community Trends: Strategic Tech Adoption Analysis
 
-- Full analysis of comprehensive data from the annual Stack Overflow Developer Survey to *identify key trends* in tech adoption, developer demand, and job satisfaction.
+- Analyzed of comprehensive data from the annual Stack Overflow Developer Survey to *identify key trends* in tech adoption, developer demand, and job satisfaction.
 
 - Utilized *Python and SQL* to execute a full analysis, from data cleaning and modeling to strategic reporting.
 
