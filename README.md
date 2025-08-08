@@ -1,13 +1,9 @@
 # Stack Overflow Developer Community Trends: Strategic Tech Adoption Analysis
 
-Analyzed data from annual Stack Overflow Developer Survey. Using SQL and Python, I executed full analysis including cleaning and modeling and developed a strategic presentation for non-technical stakeholders.
+- Full analysis of comprehensive data from the annual Stack Overflow Developer Survey to *identify key trends* in tech adoption, developer demand, and job satisfaction.
 
-**Identified key trends** in tech adoption, developer demand, and job satisfaction to inform talent acquisition and technology roadmapping.
+- Utilized *Python and SQL* to execute a full analysis, from data cleaning and modeling to strategic reporting.
 
-**Demonstrated impact** with recommendations for closing skill gaps and improving developer retention.
+- Demonstrated *direct business impact with recommendations* designed to close skill gaps and improve developer retention.
 
-**Provided actionable insights** by translating complex data into a concise, strategic presentation for non-technical stakeholders.
-
-
-
-*Key Words :* Interpret complex data, provide actionable insights, market research
+- Developed a compelling presentation that translated complex data into *concise, actionable insights* for non-technical stakeholders.
