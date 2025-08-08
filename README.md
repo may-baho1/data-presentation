@@ -10,4 +10,4 @@ Analyzed data from annual Stack Overflow Developer Survey. Using SQL and Python,
 
 
 
-**Key Words :** Interpret complex data, provide actionable insights, market research
+*Key Words :* Interpret complex data, provide actionable insights, market research
